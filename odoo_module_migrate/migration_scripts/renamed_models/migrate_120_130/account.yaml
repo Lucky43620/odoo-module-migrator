@@ -1,0 +1,6 @@
+- ["account.invoice", "account.move", "PR https://github.com/odoo/odoo/pull/33797"]
+- ["account.invoice.line", "account.move.line", "PR https://github.com/odoo/odoo/pull/33797"]
+- ["account.invoice.tax", "account.move.line", "PR https://github.com/odoo/odoo/pull/33797"]
+- ["account.register.payments", "account.payment.register", "Commit https://github.com/odoo/odoo/commit/beaa30a3d1843de43a45f419bfbc1bfa7613a920"]
+- ["account.voucher", "account.move", "PR https://github.com/odoo/odoo/pull/33797"]
+- ["account.voucher.line", "account.move.line", "PR https://github.com/odoo/odoo/pull/33797"]

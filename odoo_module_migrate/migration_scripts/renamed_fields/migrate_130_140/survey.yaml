@@ -1,0 +1,5 @@
+- ['survey.question', 'labels_id', 'suggested_answer_ids', 'PR https://github.com/odoo/odoo/pull/41198']
+- ['survey.question', 'labels_id_2', 'matrix_row_ids', 'PR https://github.com/odoo/odoo/pull/41198']
+- ['survey.question.answer', 'question_id_2', 'matrix_question_id', 'PR https://github.com/odoo/odoo/pull/41198']
+- ['survey.user_input', 'quizz_passed', 'scoring_success', 'PR https://github.com/odoo/odoo/pull/41198']
+- ['survey.user_input', 'token', 'access_token', 'PR https://github.com/odoo/odoo/pull/41198']
