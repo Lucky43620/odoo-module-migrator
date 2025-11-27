@@ -1,0 +1,6 @@
+- ['payment.acquirer', 'website_published', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/payment/migrations/13.0.1.0']
+- ['payment.acquirer', 'image_medium', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/payment/migrations/13.0.1.0']
+- ['payment.acquirer', 'image_small', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/payment/migrations/13.0.1.0']
+- ['payment.acquirer', 'post_msg', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/payment/migrations/13.0.1.0']
+- ['payment.acquirer', 'specific_countries', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/payment/migrations/13.0.1.0']
+- ['payment.acquirer', 'error_msg', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/payment/migrations/13.0.1.0']

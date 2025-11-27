@@ -1,0 +1,7 @@
+- ['crm.stage', 'probability', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/crm/migrations/13.0.1.0']
+- ['crm.stage', 'legend_priority', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/crm/migrations/13.0.1.0']
+- ['crm.stage', 'on_change', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/crm/migrations/13.0.1.0']
+- ['crm.team', 'dashboard_graph_group_pipeline', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/crm/migrations/13.0.1.0']
+- ['crm.team', 'dashboard_graph_model', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/crm/migrations/13.0.1.0']
+- ['res.partner', 'team_id', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/crm/migrations/13.0.1.0']
+- ['res.users', 'team_id', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/crm/migrations/13.0.1.0']

@@ -1,0 +1,5 @@
+- ['mail.channel', 'image', 'image_128', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
+- ['mail.message', 'layout', 'email_layout_xmlid', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
+- ['mail.message', 'needaction_partner_ids', 'notified_partner_ids', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
+- ['mail.notification', 'email_status', 'notification_status', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
+- ['mail.tracking.value', 'track_sequence', 'tracking_sequence', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']

@@ -1,0 +1,2 @@
+- ['payment.acquirer', 'environment', 'state', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/payment/migrations/13.0.1.0']
+- ['payment.acquirer', 'image', 'image_128', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/payment/migrations/13.0.1.0']

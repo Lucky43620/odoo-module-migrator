@@ -1,0 +1,5 @@
+- ["account.abstract.payment", "https://github.com/OCA/OpenUpgrade/tree/13.0/addons/account/migrations/13.0.1.1"]
+- ["account.invoice.confirm", "https://github.com/OCA/OpenUpgrade/tree/13.0/addons/account/migrations/13.0.1.1"]
+- ["account.invoice.import.wizard", "https://github.com/OCA/OpenUpgrade/tree/13.0/addons/account/migrations/13.0.1.1"]
+- ["account.invoice.refund", "https://github.com/OCA/OpenUpgrade/tree/13.0/addons/account/migrations/13.0.1.1"]
+- ["cash.box.in", "https://github.com/OCA/OpenUpgrade/tree/13.0/addons/account/migrations/13.0.1.1"]

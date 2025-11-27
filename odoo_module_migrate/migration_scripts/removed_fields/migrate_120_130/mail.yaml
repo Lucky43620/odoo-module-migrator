@@ -1,0 +1,6 @@
+- ['mail.activity', 'create_user_id', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
+- ['mail.activity', 'feedback', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
+- ['mail.channel', 'image_medium', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
+- ['mail.channel', 'image_small', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
+- ['mail.model.fields', 'track_visibility', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
+- ['mail.notification', 'is_email', 'https://github.com/OCA/OpenUpgrade/tree/13.0/addons/mail/migrations/13.0.1.0']
