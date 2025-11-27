@@ -1,0 +1,6 @@
+setuptools
+argcomplete
+colorama
+lxml
+pyyaml
+requests
